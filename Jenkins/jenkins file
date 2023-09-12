@@ -93,4 +93,3 @@ sh 'kubectl --server=https://47DA119C491322719BD97DB5A64274AE.gr7.us-east-1.eks.
 
     }
 }
-    
